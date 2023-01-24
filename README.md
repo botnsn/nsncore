@@ -1,4 +1,4 @@
-# nsncoreCahier des charges
+projet# nsncore
 
 Écriture d'un système  numérique de discussion  instantanée et de partage de contenues Numerica Social Network (NSN)
 
